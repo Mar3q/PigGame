@@ -13,3 +13,5 @@
 git clone https://github.com/Mar3q/PigGame.git
 open index.html
 ```
+
+The project was created with javascript course by Jonas Schmedtmann.
